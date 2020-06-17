@@ -1,7 +1,7 @@
 # Jetson_nano
 
 <p align="center">
-  <img src="https://github.com/hsiehchungting/Jetson-nano-basic-install/blob/master/jetson nano.jpg" width="280">
+  <img src="https://github.com/hsiehchungting/Jetson-nano/blob/master/jetson nano.jpg" width="280">
 </p>
 
 # Jetson-nano-basic-install
