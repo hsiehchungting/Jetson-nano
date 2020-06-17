@@ -37,7 +37,7 @@ make
 (now maybe your will get error. you can use nano editor your Makefile)
 ```
 <p align="center">
-  <img src="https://github.com/hsiehchungting/Jetson-nano/blob/master/Driver/EW-7811Un_V2_Linux_Driver_1.0.0.3/rtl8188EUS_linux_v5.3.9_28540.20180627/error1.jpg" width="200">
+  <img src="https://github.com/hsiehchungting/Jetson-nano/blob/master/Driver/EW-7811Un_V2_Linux_Driver_1.0.0.3/rtl8188EUS_linux_v5.3.9_28540.20180627/error1.jpg" width="500">
 </p>
 
 ```
