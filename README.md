@@ -47,3 +47,24 @@ writing your virtual environment into your bashrc (restart your nano don't disap
 ``` 
 echo ' source ~/envs/testenv/bin/activate ' >> ~/.bashrc
 ```
+
+OPENCV is already install but need to link to your environment
+```
+sudo find / -name "cv2*"
+```
+find out cv2 path (aarch64-linux-gnu.so)
+```
+find: ‘/run/user/1000/gvfs’: Permission denied
+
+/usr/lib/python2.7/dist-packages/cv2.so
+
+**/usr/lib/python3.6/dist-packages/cv2.cpython-36m-aarch64-linux-gnu.so**
+```
+
+```
+cd ~/envs/AI/lib/python3.6/site-packages/
+```
+linking your path 
+```
+ln -s /usr/lib/python3.6/dist-packages/cv2.cpython-36m-aarch64-linux-gnu.so
+```
