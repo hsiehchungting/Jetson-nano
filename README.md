@@ -17,3 +17,33 @@ https://www.edimax.com/edimax/download/download/data/edimax/global/download/prod
 
 *** Here has a point notice the wifi tool has two vision and then there driver is different*****
 
+
+# Jetson-nano-virtual environment
+
+building a virtual environment on Jetson nano
+
+
+install virtual environment
+```
+sudo apt-get install virtualenv -y
+```
+
+```
+mkdir envs
+```
+
+```
+cd envs
+```
+building a virtual environment name(testenv)
+```
+virtualenv –p python3 testenv
+```
+activate testenv
+```
+source ~/envs/testenv/bin/activate
+```
+writing your virtual environment into your bashrc (restart your nano don't disappear)
+``` 
+echo ' source ~/envs/testenv/bin/activate ' >> ~/.bashrc
+```
