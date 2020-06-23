@@ -4,7 +4,7 @@
 </p>
 
 # VINO-VNC Server
-This is a way help you can use vino remote control your nano
+This is a way help you can remote control your nano by vino.
 
 
 # install vino
