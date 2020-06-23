@@ -1,6 +1,6 @@
 # install VINO – VNC Server
 <p align="center">
-  <img src="https://github.com/hsiehchungting/Jetson-nano/blob/master/jetson nano.jpg" width="280">
+  <img src="https://github.com/hsiehchungting/Jetson-nano/blob/master/Remote-VINO/vino screen.jpg" width="280">
 </p>
 
 # VINO-VNC Server
