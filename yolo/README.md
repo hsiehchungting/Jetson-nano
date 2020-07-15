@@ -1,8 +1,5 @@
 # download yolo github
 
-//<p align="center">
-  
-//</p>
 
 ```
 git clone https://github.com/AlexeyAB/darknet
