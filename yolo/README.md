@@ -1,9 +1,9 @@
 # download yolo github
 
-<p align="center">
-  [![Watch the video](https://github.com/hsiehchungting/Jetson-nano/blob/master/yolo/yolo_result.mp4)]
-  <img src="https://github.com/hsiehchungting/Jetson-nano/blob/master/yolo/yolo_result.mp4" width="280">
-</p>
+//<p align="center">
+  //[![Watch the video](https://github.com/hsiehchungting/Jetson-nano/blob/master/yolo/yolo_result.mp4)]
+  //<img src="https://github.com/hsiehchungting/Jetson-nano/blob/master/yolo/yolo_result.mp4" width="280">
+//</p>
 
 ```
 git clone https://github.com/AlexeyAB/darknet
