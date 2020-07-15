@@ -1,6 +1,7 @@
 # download yolo github
 
 <p align="center">
+  [![Watch the video](https://github.com/hsiehchungting/Jetson-nano/blob/master/yolo/yolo_result.mp4)]
   <img src="https://github.com/hsiehchungting/Jetson-nano/blob/master/yolo/yolo_result.mp4" width="280">
 </p>
 
@@ -49,4 +50,5 @@ use yolo on your mp4
 
 reference
 1.https://github.com/AlexeyAB/darknet
+
 2.https://pysource.com/2019/08/29/yolo-v3-install-and-run-yolo-on-nvidia-jetson-nano-with-gpu/
